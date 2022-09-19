@@ -1,0 +1,39 @@
+body {
+    background-image: url(gambar1.jpg);
+    font-style: oblique;
+    font-stretch: wider;
+   background-attachment: scroll;
+   
+   
+
+}
+h1{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    
+}
+h3{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;  
+}
+p{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;  
+}   
+h2{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;  
+}
+h5{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;  
+}
+img{
+    width: 200px;
+    height:150px;
+}
